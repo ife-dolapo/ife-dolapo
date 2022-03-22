@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ife-dolapo
 - 👀 I’m interested in perfecting my coding skills so i can become a full stack developer
-- 🌱 I’m currently learning several programming languages (HTML, CSS, JavaScript), Bootstrap, API and many more to come,lol, at SheCodes to improve my knowledge
+- 🌱 I have learnt several programming languages (HTML, CSS, JavaScript) alongside Bootstrap, Restful APIs and Hosting through Netlify. Currently learning how to build a responsive project at SheCodes and self-learning SQL for Data analysis at LinkedIn Learning.
 - 💞️ I’m looking to collaborate on projects to improve my skills and knowledge
 - 📫 How to reach me : ifedolapootiko@gmail.com
 
